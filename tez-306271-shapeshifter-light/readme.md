@@ -4,7 +4,7 @@
 - H=N link: https://www.hicetnunc.xyz/objkt/306271
 - minted 2021-09-14T17:07:52+00:00 512 ed.
 
-![shapeshift.gif](shapeshift.gif)
+![thumbnail.gif](thumbnail.gif)
 
 ## Notes
 - A generative shapeshifter created with D3.js. Released as part of #objkt4objkt. My first HTML objkt!

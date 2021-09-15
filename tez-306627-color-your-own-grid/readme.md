@@ -4,6 +4,8 @@
 - H=N link: https://www.hicetnunc.xyz/objkt/306627
 - minted 2021-09-14T19:00:42+00:00 9 ed
 
+![thumbnail.png](thumbnail.png)
+
 ## Notes
 - Created with D3.js (v4).
 - My first interactive objkt!

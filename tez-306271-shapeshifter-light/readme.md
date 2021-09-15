@@ -9,5 +9,6 @@
 ## Notes
 - A generative shapeshifter created with D3.js. Released as part of #objkt4objkt. My first HTML objkt!
 - Created with D3.js 
+- Underlying data set is based on [#240527](../tez-240527-mesh-nodes/)
 - My personal breakthrough here was using `.on("end", function() {})` to call a recursive function to keep the transition running repeatedly
 - Used d3.color for the color schemes
